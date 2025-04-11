@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gianna Rappa Biography</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Gianna Rappa - Biography</h1>
+        </header>
+
+        <section>
+            <h2>Early Life</h2>
+            <p>
+                Gianna Rappa is a creative artist, dancer, and traveler born and raised in Winter Garden, Florida.
+                The 20-year-old found her passion for dancing at only 5 years old. Since then, she has not
+                stopped dancing for a second, and can still be seen dancing away.
+            </p>
+            <p>
+                Most of Gianna’s family lives in the surrounding Orlando area, from Winter Park to Millenia. 
+                Gianna made lots of friends in school at Windermere Preparatory School, Sunridge Middle School, and 
+                West Orange High School. While at West Orange, she found her passion for graphic design and bonded 
+                with her teacher and mentor, Susanna Jordan.
+            </p>
+            <p>
+                Immediately after graduating from high school, she began working as the Social Media Manager for 
+                a furniture and home decor store called Element by Shangri-La. She got to apply her love for 
+                graphic design to her work along with photography, videography, editing, and more.
+            </p>
+        </section>
+
+        <section>
+            <h2>Higher Education</h2>
+            <p>
+                Gianna Rappa is currently a junior at the University of Central Florida, majoring in Advertising 
+                and Public Relations. She will be graduating with her bachelor’s degree a year early next spring.
+            </p>
+            <p>
+                Gianna lives in a UCF-affiliated off-campus apartment with 3 roommates. She is still working as 
+                the social media manager at Element, but she is also working as the producer, editor, graphic 
+                designer, and social media manager for an Orlando-based podcast titled YGs Unfiltered Podcast.
+            </p>
+        </section>
+
+        <section>
+            <h2>Future Goals</h2>
+            <p>
+                After graduation, Gianna wishes to get a social media job in the Tampa/St. Pete area. She hopes 
+                to live with her best friend in the Lakeland area and explore the surrounding cities for the next year or so.
+            </p>
+            <p>
+                Gianna’s professional goal is to start a company that helps small businesses begin their social media presence. 
+                She wants to work for a couple of small businesses at a time, and once they have a good start with their digital 
+                media advertising, recommend social media managers to take over or allow the company to manage it themselves.
+            </p>
+            <p>
+                She hopes to continue this pathway for as long as she can and continue learning about advertising and social media while doing so.
+            </p>
+        </section>
+    </div>
+</body>
+</html>
